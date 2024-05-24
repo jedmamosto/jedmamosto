@@ -1,5 +1,7 @@
-# Jed Matthew Mamosto
-👋 Hi there! I'm Jed, a Full Stack Developer, UI/UX Designer, and startup founder passionate about using technology to create impactful solutions.
+
+# 👋 Hi there! I'm Jed 
+
+Full Stack Developer, UI/UX Designer, and startup founder passionate about using technology to create impactful solutions.
 
 - 🔭 I’m currently working on getting a job/intership.
 - 🌱 I’m learning more about frontend development specifically animations.
